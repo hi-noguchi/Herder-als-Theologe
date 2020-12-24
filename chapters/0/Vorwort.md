@@ -8,9 +8,7 @@ Es ist an der Zeit, das Vergessene dem Protestantismus der Gegenwart wieder zu G
 これまで、神学と教会にとってのヘルダーの意義を明らかにしてきたのは、ほとんど文学史家だけであり、それさえももちろん一過性のものでしかなかった。
 忘れ去られていたヘルダーを現代のプロテスタントにとって再度注目させる時が、そして、一方的にあるいはかなり間違った判断をされている彼の名誉を回復する時が、来ている。
 
-<sup>
-<b id="t1_b">訳註1</b> 文意がよく理解できない…… [↩](#t1_b) 
-</sup>
+<sup><b id="t1_b">訳註1</b> 文意がよく理解できない…… [↩](#t1_a)</sup>
 
 Der Theologe Herder ist kein Mann der Parteien.
 Dennoch streiten sich die Parteien der Gegenwart um ihn.
@@ -26,14 +24,10 @@ Die Einen verachten ihn als einen unklaren, schwankenden Mystiker, die Andern wo
 全く正反対の評価が彼の周りをぐるぐるとめぐっている。
 ある者は彼を不明確で揺らぐ神秘主義者として軽蔑し、またある者は彼をフマニテートの司祭、つまり不信仰の司祭として追放したいと考えている。
 
-<sup>
-<b id="o1_b">＊</b> Vgl. Kohnt, Serder und die Humanitätsbesrebungen 2. Berlin 1870. [↩](#o1_a)
+<sup><b id="o1_b">＊</b> Vgl. Kohnt, Serder und die Humanitätsbesrebungen 2. Berlin 1870. [↩](#o1_a)</sup>
 
-
-<b id="t2_b">訳註2</b> 具体的な誰かを指している？ [↩](#t2_a)  
-
-<b id="t3_b">訳註3</b> プロテスタントのこと？　具体的な誰かを指している？ [↩](#t3_a) 
-</sup>
+<sup><b id="t2_b">訳註2</b> 具体的な誰かを指している？ [↩](#t2_a)</sup>  
+<sup><b id="t3_b">訳註3</b> プロテスタントのこと？　具体的な誰かを指している？ [↩](#t3_a)</sup>
 
 
 ## p.IV
